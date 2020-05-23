@@ -27,3 +27,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+菜单项数据加载成功后，可以考虑几个存放的地方：
+1、localStorage
+2、sessionStorage
+3、vuex
+
