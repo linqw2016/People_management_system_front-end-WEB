@@ -826,7 +826,6 @@
                 this.inputDepName = '';
             },
             showEditEmpView(emp) {
-
                 // this.initPositions();
                 this.inputDepName = emp.department.name;
                 this.title = '编辑员工信息';
@@ -1010,7 +1009,6 @@
                 }
 
                 this.tableLoading = false;
-
             }
         }
     }
